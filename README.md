@@ -3,6 +3,8 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-%3D4.5.2-9cf)
 ![pandas](https://img.shields.io/badge/pandas-%3D1.3.1-blueviolet)
 ![matplotlib](https://img.shields.io/badge/matplotlib-%3D3.4.2-lightgrey)
+[![Status](https://storage.googleapis.com/tensorflow-kokoro-build-badges/windows-gpu.svg)](https://storage.googleapis.com/tensorflow-kokoro-build-badges/windows-gpu.html)
+
 
 # Image_Classification
 Image Classification Task
